@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Roger's Potato Shack
+title: Vsense
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ snipcart_key: "MzMxN2Y0ODMtOWNhMy00YzUzLWFiNTYtZjMwZTRkZDcxYzM4"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Roger's Potato Shack
+description: Vsense - Orvibo New Zealand
 author:
   name: Snipcart's Geeks
   email: geeks@snipcart.com
